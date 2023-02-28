@@ -9,11 +9,11 @@
   <body style="padding-top: 2rem;">
     <p>
         Documento seleccionado:
-        <?= htmlspecialchars($_GET["documento_seleccionado"]) ?? "(No se recibió nada)" ?>
+        <?= htmlspecialchars($_GET["documento_seleccionado"] ?? "(No se recibió nada)") ?>
     </p>
     <p>
         Nombre:
-        <?= htmlspecialchars($_GET["nombre"]) ?? "(No se recibió nada)" ?>
+        <?= htmlspecialchars($_GET["nombre"] ?? "(No se recibió nada)") ?>
     </p>
   </body>
 </html>
