@@ -4,4 +4,4 @@
 [![Estado](https://api.codiga.io/project/35982/status/svg)](https://app.codiga.io/hub/project/35982/584996-stackoverflow-es)
 
 Respuesta:
-- https://es.stackoverflow.com/a/585004/18608
+  - https://es.stackoverflow.com/a/585004/18608
